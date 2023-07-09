@@ -1,0 +1,632 @@
+[
+  {
+     "name":"Mayfair / Jacks Chicken Shack",
+     "status":"closed",
+     "description":"Mayfair / Jacks Chicken Shack is closed. They closed after failing to reopen for the 2019 season. Owner John has reverted to his own menu and recipes shortly after Gordon visited.",
+     "link":"https://www.realitytvrevisited.com/2014/09/costa-del-nightmares-jacks-chicken-shack.html"
+  },
+  {
+     "name":"Le Deck",
+     "status":"closed",
+     "description":"Le Deck is closed. They closed after failing to open for the 2017 summer season. After filming business was up and Steve had returned to their other restaurant in the mountains.",
+     "link":"https://www.realitytvrevisited.com/2014/10/costa-del-nightmares-le-deck.html"
+  },
+  {
+     "name":"La Granada Divino",
+     "status":"closed",
+     "description":"La Granada Divino is closed. They closed in September 2015, two years after filming, as owners Milan and Gina retired from the restaurant trade.",
+     "link":"https://www.realitytvrevisited.com/2014/10/costa-del-nightmares-la-granada-divino.html"
+  },
+  {
+     "name":"Quelcuttis Tapas",
+     "status":"closed",
+     "description":"Quelcuttis Tapas is closed. They closed in 2015, 14 months after Gordon visited with his changes blamed for the closure.",
+     "link":"https://www.realitytvrevisited.com/2014/10/costa-del-nightmares-quelcuttis-tapas.html"
+  },
+  {
+     "name":"Pantaleone's",
+     "status":"open",
+     "description":"Pantaleone's is open. Business improved 70% after the episode aired and they added a delivery service in 2017. Reviews are positive",
+     "link":"https://www.realitytvrevisited.com/2014/04/us-season-7-pantaleones.html"
+  },
+  {
+     "name":"Old Neighborhood Restaurant",
+     "status":"closed",
+     "description":"Old Neighborhood Restaurant is closed. They closed as of May 1st 2016 after selling the restaurant business, the building was sold in June 2014.",
+     "link":"https://www.realitytvrevisited.com/2014/04/us-season-7-old-neighborhood.html"
+  },
+  {
+     "name":"Kati Allo",
+     "status":"closed",
+     "description":"Kati Allo is closed. They closed in April 2014, days after the episode aired. The closure was temporary for renovations but they never reopened.",
+     "link":"https://www.realitytvrevisited.com/2014/05/us-season-7-kati-allo.html"
+  },
+  {
+     "name":"Mangia Mangia",
+     "status":"closed",
+     "description":"Mangia Mangia is closed. They closed in November 2014 and Trevor went to rehab, got clean and planned to go to culinary school.",
+     "link":"https://www.realitytvrevisited.com/2014/05/us-season-7-mangia-mangia.html"
+  },
+  {
+     "name":"Zayna Flaming Grill",
+     "status":"open",
+     "description":"Zayna Flaming Grill is open. The restaurant was sold to a new owner in September 2015 and reviews are mostly positive.",
+     "link":"https://www.realitytvrevisited.com/2014/05/us-season-7-zayna-flaming-grill.html"
+  },
+  {
+     "name":"Bella Luna",
+     "status":"closed",
+     "description":"Bella Luna is closed. They closed 3 and a half months after filming in November 2013 and blamed a dispute with the landlord.",
+     "link":"https://www.realitytvrevisited.com/2014/05/us-season-7-bella-luna.html"
+  },
+  {
+     "name":"La Galleria 33",
+     "status":"closed",
+     "description":"La Galleria 33 is closed. They closed suddenly in November 2018 with no announcement of the closure.",
+     "link":"https://www.realitytvrevisited.com/2012/06/us-season-6-la-galleria-33.html"
+  },
+  {
+     "name":"Barefoot Bobs",
+     "status":"closed",
+     "description":"Barefoot Bobs is closed. They closed suddenly in December 2016 with no announcement of the closure. Prior to the closure they reverted to their old menu and brought back the tiki decor.",
+     "link":"https://www.realitytvrevisited.com/2012/06/us-season-6-barefoot-bobs.html"
+  },
+  {
+     "name":"Mama Maria's",
+     "status":"closed",
+     "description":"Mama Maria's is closed. They closed in February 2023 as John retired. John returned some customer favourites to the menu and tweaked recipes. Reviews were mostly positive.",
+     "link":"https://www.realitytvrevisited.com/2012/06/us-season-6-mama-marias.html"
+  },
+  {
+     "name":"Ms Jean's Southern Cuisine",
+     "status":"open",
+     "description":"Ms Jean's Southern Cuisine is open. They moved to a new location and reviews are positive. Reviews have improved significantly since 2017.",
+     "link":"https://www.realitytvrevisited.com/2012/12/us-season-6-ms-jeans-southern-cuisine.html"
+  },
+  {
+     "name":"Olde Hitching Post",
+     "status":"open",
+     "description":"Olde Hitching Post is open. Reviews are mostly positive with seafood being popular. They stopped doing breakfast in 2019 to the disappointment of many.",
+     "link":"https://www.realitytvrevisited.com/2013/02/us-season-6-olde-hitching-post.html"
+  },
+  {
+     "name":"Levanti's American Bistro",
+     "status":"closed",
+     "description":"Levanti's American Bistro is closed. They closed in November 2013 after Tony decided to retire nine months after the episode was aired.",
+     "link":"https://www.realitytvrevisited.com/2012/11/us-season-6-levantis-american-bistro.html"
+  },
+  {
+     "name":"Sam's Mediterranean kabob Room",
+     "status":"closed",
+     "description":"Sam's Mediterranean kabob Room is closed. They closed in January 2014 as appearing on the show didn't increase customers numbers and more competition had opened in the area.",
+     "link":"https://www.realitytvrevisited.com/2013/02/us-season-6-sams-mediterranean-kabob-room.html"
+  },
+  {
+     "name":"Nino's Italian Restaurant",
+     "status":"closed",
+     "description":"Nino's Italian Restaurant is closed. They closed in August 2016 due to retirement. Carina said that the remodel was done using cheap furniture that were not fit for purpose.",
+     "link":"https://www.realitytvrevisited.com/2012/07/us-season-6-ninos-italian-restaurant.html"
+  },
+  {
+     "name":"Mill Street Bistro",
+     "status":"closed",
+     "description":"Mill Street Bistro is closed. Joe renamed the restaurant to Maple City Tavern and they closed in February 2016. Joe sued Gordon after the episode for missing items and damage to the restaurant.",
+     "link":"https://www.realitytvrevisited.com//2012/11/us-season-6-mill-street-bistro.html"
+  },
+  {
+     "name":"Yanni's Greek Restaurant",
+     "status":"open",
+     "description":"Yanni's Greek Restaurant is open. They returned some of their old dishes to the menu and reviews are mostly positive with the moussaka being a hit with customers.",
+     "link":"https://www.realitytvrevisited.com//2013/02/us-season-6-yannis-greek-restaurant.html"
+  },
+  {
+     "name":"Prohibition Grille",
+     "status":"closed",
+     "description":"Prohibition Grille is closed. They closed in July 2017. Chef Rocky opened his own restaurant that had excellent reviews prior to its closure.",
+     "link":"https://www.realitytvrevisited.com/2013/04/us-season-6-prohibition-grille.html"
+  },
+  {
+     "name":"Chappy's",
+     "status":"closed",
+     "description":"Chappy's is closed. Chappy blames the closure on Gordon and has opened and closed a number of restaurants since appearing on the show.",
+     "link":"https://www.realitytvrevisited.com/2013/04/us-season-6-chappys.html"
+  },
+  {
+     "name":"Amy's Baking Company",
+     "status":"closed",
+     "description":"Amy's Baking Company is closed. Amy closed the restaurant in September due to landlord troubles and after much online drama to open an online cookery school. Amy and Samy now live in Israel.",
+     "link":"https://www.realitytvrevisited.com/2013/05/us-season-6-amys-baking-company.html"
+  },
+  {
+     "name":"Blackberry's",
+     "status":"closed",
+     "description":"Blackberry's is closed. They closed in March 2013 as Shelly no longer saw room for growth, were maintaining and not getting the clientele they wanted.",
+     "link":"https://www.realitytvrevisited.com/2011/11/us-season-5-blackberrys.html"
+  },
+  {
+     "name":"Leone's",
+     "status":"open",
+     "description":"Leone's is open. Gordon revisited, the chefs had been fired and Michael wasn't at the restaurant, he stepped up and reviews are mostly positive. Rose sadly passed away in April 2014.",
+     "link":"https://www.realitytvrevisited.com/2011/11/us-season-5-leones.html"
+  },
+  {
+     "name":"Mike and Nellie's",
+     "status":"closed",
+     "description":"Mike and Nellie's is closed. They closed in January 21st 2012 and Mike now owns his own catering company.",
+     "link":"https://www.realitytvrevisited.com/2011/11/us-season-5-mike-and-nellies.html"
+  },
+  {
+     "name":"Luigi's D' Italia",
+     "status":"open",
+     "description":"Luigi's D' Italia is open. The restaurant moved location in December 2017 and opened a catering service. Reviews are positive with praise for the lasagna and pizza.",
+     "link":"https://www.realitytvrevisited.com/2011/11/us-season-5-luigis-d-italia.html"
+  },
+  {
+     "name":"Burger Kitchen",
+     "status":"closed",
+     "description":"Burger Kitchen is closed. The restaurant was sold to new owners in August 2011, was rebranded and closed in February 2012.",
+     "link":"https://www.realitytvrevisited.com/2011/11/us-season-5-burger-kitchen.html"
+  },
+  {
+     "name":"The Greek at the Harbor",
+     "status":"open",
+     "description":"The Greek at the Harbor is open. Some customers didn't like the changes but reviews are generally positive with praise for the entertainment and food.",
+     "link":"https://www.realitytvrevisited.com/2011/11/us-season-5-greek-at-harbour.html"
+  },
+  {
+     "name":"Michon's",
+     "status":"closed",
+     "description":"Michon's is closed. They closed in August 2013 and two other locations closed - Downtown burnt down in a fire in March 2012 and Peach Tree Centre closed in early 2018. Reviews at the original location were negative after filming.",
+     "link":"https://www.realitytvrevisited.com/2012/06/us-season-5-michons.html"
+  },
+  {
+     "name":"El Greco",
+     "status":"closed",
+     "description":"El Greco is closed. They closed in December 2011 as their debts were too large. Many staff had left due to conflict and reviews after filming were negative with complaints on food and service.",
+     "link":"https://www.realitytvrevisited.com/2012/06/us-season-5-el-greco.html"
+  },
+  {
+     "name":"Park's Edge",
+     "status":"closed",
+     "description":"Park's Edge is closed. They closed in early 2014 after their lease ran out and they did not open in a new location. They returned some items to the menu due to customer requests.",
+     "link":"https://www.realitytvrevisited.com/2012/06/us-season-5-parks-edge.html"
+  },
+  {
+     "name":"Spin A Yarn Steakhouse",
+     "status":"open",
+     "description":"Spin A Yarn Steakhouse is open. They returned some dishes to the menu as requested by regulars and reviews are positive with the prime rib remaining a big hit with diners.",
+     "link":"https://www.realitytvrevisited.com/2012/06/us-season-5-spin-yarn-steakhouse.html"
+  },
+  {
+     "name":"Charlie's Italian Bistro",
+     "status":"closed",
+     "description":"Charlie's Italian Bistro is closed. They closed in July 2012 and Genevieve sadly passed away from complications due to epilepsy.",
+     "link":"https://www.realitytvrevisited.com/2012/06/us-season-5-charliess-italian-bistro.html"
+  },
+  {
+     "name":"Cafe Hon",
+     "status":"closed",
+     "description":"Cafe Hon is closed. They closed in April 2022 after Denise decided to move onto something new. The locals appear to have forgiven Denise for the Hon trademark issue and reviews are positive with the meatloaf being popular among diners.",
+     "link":"https://www.realitytvrevisited.com/2012/06/us-season-5-cafe-hon.html"
+  },
+  {
+     "name":"Chiarella's Ristorante",
+     "status":"closed",
+     "description":"Chiarella's Ristorante is closed. They closed on the 30th June 2015 after their lease expired and they could not afford an increase in rent.",
+     "link":"https://www.realitytvrevisited.com/2012/06/us-season-5-chiarellas-ristorante.html"
+  },
+  {
+     "name":"Zocalo",
+     "status":"closed",
+     "description":"Zocalo is closed. They closed January 2013 after failing to open after Christmas due to spiralling debts including for taxes. Greg and Mary divorced and he remarried waitress Maria.",
+     "link":"https://www.realitytvrevisited.com/2012/06/us-season-5-zocalo.html"
+  },
+  {
+     "name":"Spanish Pavillion",
+     "status":"open",
+     "description":"Spanish Pavillion is open. Michael has stepped away from the business and business is up since filming. Reviews are positive with praise for the paella and sangria.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-4-spanish-pavillion.html"
+  },
+  {
+     "name":"Classic American",
+     "status":"closed",
+     "description":"Classic American is closed. The restaurant closed in August 2013 and they continued offering catering services.",
+     "link":"https://www.realitytvrevisited.com/2011/11/us-season-4-classic-american.html"
+  },
+  {
+     "name":"PJ's Steakhouse",
+     "status":"closed",
+     "description":"PJ's Steakhouse is closed. They closed a few weeks after filming in May 2010 as the takings were low and the debts were high and returned to the construction trade.",
+     "link":"https://www.realitytvrevisited.com/2011/11/us-season-4-pjs-steakhouse.html"
+  },
+  {
+     "name":"Grasshopper Also",
+     "status":"closed",
+     "description":"Grasshopper Also is closed. They closed in October 2012, was sold and reopened with new management, new staff and a new makeover. The restaurant has changed hands many times since.",
+     "link":"https://www.realitytvrevisited.com/2011/11/us-season-4-grasshopper.html"
+  },
+  {
+     "name":"Davide",
+     "status":"closed",
+     "description":"Davide is closed. They closed in May 2014 after being sold in January 2014, as the owners wanted to start a farming venture and food tours of Boston North End.",
+     "link":"https://www.realitytvrevisited.com/2011/11/us-season-4-davide.html"
+  },
+  {
+     "name":"Downcity",
+     "status":"closed",
+     "description":"Downcity is closed.They closed on 10th December 2011, after struggling in the decline of the local economy. Aby is now a personal trainer.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-4-downcity.html"
+  },
+  {
+     "name":"Cafe Tavolini",
+     "status":"closed",
+     "description":"Cafe Tavolini is closed. They closed in December 2010, just weeks after filming with an answerphone recording saying that they were closing for medical reasons.",
+     "link":"https://www.realitytvrevisited.com/2011/11/us-season-4-cafe-tavolini.html"
+  },
+  {
+     "name":"Kingston Cafe",
+     "status":"closed",
+     "description":"Kingston Cafe is closed. They closed as a restaurant in August 2018, however the space is still used for events and catering functions.",
+     "link":"https://www.realitytvrevisited.com/2011/11/us-season-4-kingston-cafe.html"
+  },
+  {
+     "name":"La Frite",
+     "status":"closed",
+     "description":"La Frite is closed. The restaurant was sold to a new owner in July 2016 and closed in September 2017 when the owner changed the restaurant to an Italian eatery called Modo Mio.",
+     "link":"https://www.realitytvrevisited.com/2011/06/season-4-la-frite.html"
+  },
+  {
+     "name":"The Capri Restaurant",
+     "status":"closed",
+     "description":"The Capri Restaurant featured in Kitchen Nightmares season 4 episode 10 and is closed. They closed in September 2019 due to the twins health issues and declining sales at the restaurant.",
+     "link":"https://www.realitytvrevisited.com/2011/11/us-season-4-capri.html"
+  },
+  {
+     "name":"Zeke's",
+     "status":"closed",
+     "description":"Zeke's is closed. They closed in October 2012 after taping a notice to the door and the restaurant was sold to new owners. Daryll and Ellen now own LUCA Eats in New Orleans.",
+     "link":"https://www.realitytvrevisited.com/2011/11/us-season-4-zekes.html"
+  },
+  {
+     "name":"Oceana Grill",
+     "status":"open",
+     "description":"Oceana Grill is open. The restaurant was sold to new owners, who have sued the production company over clips showing the poor state of the kitchen as this does not represent the higher standards under their ownership.",
+     "link":"https://www.realitytvrevisited.com/2011/11/us-season-4-oceana.html"
+  },
+  {
+     "name":"Hot Potato Cafe",
+     "status":"closed",
+     "description":"Hot Potato Cafe is closed. They closed in August 2010 as their lease was due to expire and a closed sign was put up on the door. Danielle went to college and trained to be a nurse.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-3-episode-1-hot-potato-cafe.html"
+  },
+  {
+     "name":"Flamangos/The Junction",
+     "status":"closed",
+     "description":"Flamangos/The Junction is closed. They closed in April 2011 as Bill and Adele decided to re-retire to Florida. Cheryl moved out of her parents house in 2016.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-3-episode-2-flamangos.html"
+  },
+  {
+     "name":"Bazzini",
+     "status":"closed",
+     "description":"Bazzini is closed. Bazzini closed in June 2010 and Paul now works as a chef with his son. In a revisit we see Sharyn who had began working full time baking her cakes.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-3-episode-3-bazzini.html"
+  },
+  {
+     "name":"Mojito",
+     "status":"closed",
+     "description":"Mojito is closed. Mojito closed in March 2016 and Katalina went travelling, documenting her food journey on Instagram.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-3-episode-4-mojito.html"
+  },
+  {
+     "name":"Lido di Manhattan",
+     "status":"open",
+     "description":"Lido di Manhattan is open. They host regular wine tasting and music events that are a huge hit and reviews are mostly positive with a few criticisms on service.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-3-episode-5-lido-di-manhattan.html"
+  },
+  {
+     "name":"Le Bistro",
+     "status":"open",
+     "description":"Le Bistro is open. They expanded into providing produce to a local market. Reviews are positive with the beef wellington and mushroom soup receiving rave reviews.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-3-episode-6-le-bistro.html"
+  },
+  {
+     "name":"Casa Roma",
+     "status":"closed",
+     "description":"Casa Roma is closed. They reverted to their old menu and briefly rebranded as The AV Roadhouse Restaurant Bar & Grill before reverting back.They closed in July 2017.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-3-episode-7-casa-roma.html"
+  },
+  {
+     "name":"Mama Rita's",
+     "status":"closed",
+     "description":"Mama Rita's is closed. They closed in December 2010 after abandoning Gordon's menu but the catering business continued for a number of years.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-3-episode-8-mama-ritas.html"
+  },
+  {
+     "name":"Anna Vincenzo's",
+     "status":"closed",
+     "description":"Anna Vincenzo's is closed.They closed in April 2010 and Cece sold the restaurant so that she could spend more time with her children. Cece and Michael had seperated.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-3-episode-9-anna-vincenzos.html"
+  },
+  {
+     "name":"Fleming",
+     "status":"closed",
+     "description":"Fleming is closed. They closed in October 2010, 5 months after airing after trying a number of different menus and event nights.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-3-episode-10-fleming.html"
+  },
+  {
+     "name":"Sushi Ko",
+     "status":"closed",
+     "description":"Sushi Ko is closed. They closed in August 2009. Lisa believes it was too little too late and Samy blames the show and the local economy.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-3-episode-11-sushi-ko.html"
+  },
+  {
+     "name":"Handlebar",
+     "status":"closed",
+     "description":"Handlebar is closed. They closed in 2009 shortly after Gordon revisited and the restaurant was sold. Bill sadly passed away after a cancer battle in November 2015.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-2-episode-1-handle-bar.html"
+  },
+  {
+     "name":"Giuseppi's",
+     "status":"closed",
+     "description":"Giuseppi's is closed. They closed in July 2009, blaming the economy and the lack of a liquor license for the closure.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-2-episode-2-giuseppis.html"
+  },
+  {
+     "name":"Trobiano's",
+     "status":"closed",
+     "description":"Trobiano's is closed. They closed in October 2008 after the restaurant was seized by the state for not paying their taxes.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-2-episode-3-trobianos.html"
+  },
+  {
+     "name":"Black Pearl",
+     "status":"closed",
+     "description":"Black Pearl is closed. They closed just 4 days after the episode aired with owner David posting one a passive aggressive rant online at Gordon.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-2-episode-4-black-pearl.html"
+  },
+  {
+     "name":"J Willy's",
+     "status":"closed",
+     "description":"J Willy's is closed. They closed in February 2009 after choosing to close rather than cut quality due to increasing food costs.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-2-episode-5-j-willys.html"
+  },
+  {
+     "name":"Hannah & Mason's",
+     "status":"closed",
+     "description":"Hannah & Mason's is closed. They They closed in February 2010 with Chris blaming Gordon's menu and falling customer numbers for both the bistro and catering services.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-2-episode-6-hannah-masons.html"
+  },
+  {
+     "name":"Jack's Waterfront",
+     "status":"closed",
+     "description":"Jack's Waterfront is closed. They closed in December 2010, presumably due to their debts as reviews were much more positive after the episode was filmed.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-2-episode-7-jacks-waterfront.html"
+  },
+  {
+     "name":"Sabatiello's",
+     "status":"closed",
+     "description":"Sabatiello's is closed. They closed in October 2008 and Samy told the media that he regretted appearing on the show. He opened another pizzeria that closed due to unpaid rent.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-2-episode-8-sabatiellos.html"
+  },
+  {
+     "name":"Fiesta Sunrise",
+     "status":"closed",
+     "description":"Fiesta Sunrise is closed. They closed in September 2008 after the restaurant was seized due to failing to pay taxes. They had closed the previous year due to failing to pay taxes but paid in full and reopened.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-2-fiesta-sunrise.html"
+  },
+  {
+     "name":"Santé La Brea",
+     "status":"closed",
+     "description":"Santé La Brea is closed. They closed in June 2011 after selling the restaurant. Dean retired in 2009 and was living overseas and the restaurant was run by his sons prior to closure.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-2-episode-10-sante-la-brea.html"
+  },
+  {
+     "name":"Cafe 36",
+     "status":"closed",
+     "description":"Cafe 36 is closed. They closed on 18 April 2009 with the owners blaming the economy and Gordon's changes to the restaurant for the closure.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-2-episode-11-cafe-36.html"
+  },
+  {
+     "name":"Peters",
+     "status":"closed",
+     "description":"Peters is closed. They closed in December 2008 and their father passed away in 2009.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-1-episode-1-peters.html"
+  },
+  {
+     "name":"Dillons/Purnima",
+     "status":"closed",
+     "description":"Dillons/Purnima is closed. They closed in 2009 and Martin tried to sue Gordon for $3million and to stop the show being aired but it was thrown out of court.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-1-episode-2-dillons-purnima.html"
+  },
+  {
+     "name":"The Mixing Bowl",
+     "status":"closed",
+     "description":"The Mixing Bowl is closed. They closed in January 2009. The restaurant had closed briefly before the filming of the show but reopened for filming.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-1-episode-3-mixing-bowl.html"
+  },
+  {
+     "name":"Seascape",
+     "status":"closed",
+     "description":"Seascape is closed. They closed in August 2017 just five months after the episode was filmed and after reverting back to their old menu.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-1-episode-4-seascape.html"
+  },
+  {
+     "name":"The Olde Stone Mill",
+     "status":"open",
+     "description":"The Olde Stone Mill is open. The restaurant was sold to new owners in 2009 and Dean opened an Italian restaurant that closed in 2015. Dean has had minor acting roles and hosted a hunting show.",
+     "link":"https://www.realitytvrevisited.com/2011/05/the-olde-stone-mill.html"
+  },
+  {
+     "name":"Sebastians",
+     "status":"closed",
+     "description":"Sebastians is closed. They closed in January 2008 after the family moved back to Boston. Sebastian had a small part in a movie and runs landscaping and financial companies.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-1-episode-6-sebastians.html"
+  },
+  {
+     "name":"Finn McCool's",
+     "status":"closed",
+     "description":"Finn McCool's is closed. They sold the restaurant in 2009 with the family continuing to work there. They closed in March 2012 after an issue with the lease.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-1-episode-7-finn-mccools.html"
+  },
+  {
+     "name":"Lelas",
+     "status":"closed",
+     "description":"Lelas is closed. They closed shortly after filming as Lela's debts were too high to recover.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-1-episode-8-lelas.html"
+  },
+  {
+     "name":"Campania",
+     "status":"closed",
+     "description":"Campania is closed. The restaurant was sold in September 2010 and eight days later Joe sadly took his own life. They closed in January 2011.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-1-episode-9-campania.html"
+  },
+  {
+     "name":"The Secret Garden",
+     "status":"closed",
+     "description":"The Secret Garden is closed. They closed in March 2010 after selling the restaurant, this sale fell through but he found another buyer. He had abandoned Gordon's changes quickly after filming.",
+     "link":"https://www.realitytvrevisited.com/2011/05/us-season-1-episode-10-secret-garden.html"
+  },
+  {
+     "name":"The Dovecote Bistro/Martins",
+     "status":"closed",
+     "description":"The Dovecote Bistro/Martins is closed. They closed in October 2015 as the business was sold to new owners, they had abandoned the upstairs bistro and focused on the cafe side of the business.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-great-british-nightmare-martins.html"
+  },
+  {
+     "name":"Runaway Girl/Silversmiths",
+     "status":"open",
+     "description":"Runaway Girl/Silversmiths is open. Justin sold the restaurant to new owners in April 2017 after winning numerous awards and it has changed hands multiple times since and has closed without warning.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-great-british-nightmare-runaway-girl.html"
+  },
+  {
+     "name":"Ruby Tates/Loves Fish",
+     "status":"closed",
+     "description":"Ruby Tates/Loves Fish is closed. They closed in January 2009, due to the drop in the local economy leading to a lack of bookings",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-5-episode-1-ruby-tates-loves.html"
+  },
+  {
+     "name":"The Priory",
+     "status":"closed",
+     "description":"The Priory is closed. They closed in 2008 after Scott reverted the restaurant back to serving carvery dinners and abandoning Gordon's idea of a grill house.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-5-episode-3-priory.html"
+  },
+  {
+     "name":"The Curry Lounge",
+     "status":"closed",
+     "description":"The Curry Lounge is closed. Raz sold the restaurant in 2015 and it closed in 2018. In 2017 Raz admitted to £65,000 of tax fraud in relation to the restaurant.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-5-episode-5-curry-lounge.html"
+  },
+  {
+     "name":"Piccolo Teatro",
+     "status":"closed",
+     "description":"Piccolo Teatro is closed. They closed in April 2007 before Gordon revisited and Rachel became a hooker. India has had a very successful kitchen career after work experience with Gordon.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-5-episode-2-piccolo-teatro.html"
+  },
+  {
+     "name":"The Granary",
+     "status":"closed",
+     "description":"The Granary is closed. They closed in January 2008 after an arson attack gutted the restaurant. The arsonist was jailed in September 2018 after spending 10 years on the run.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-5-episode-5-granary.html"
+  },
+  {
+     "name":"The Fish and Anchor",
+     "status":"closed",
+     "description":"The Fish and Anchor is closed. They closed in 2008, the business listed for sale at £295,000 and was sold in 2009. After the closure Mike planned to move to Italy.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-5-episode-4-fish-and-anchor.html"
+  },
+  {
+     "name":"La Parra de Burriana",
+     "status":"closed",
+     "description":"La Parra de Burriana is closed. They closed in August 2008 with Lawrence closing the restaurant suddenly and Lawrence has since changed his name.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-4-episode-1-la-parra-de.html"
+  },
+  {
+     "name":"The Fenwick Arms",
+     "status":"open",
+     "description":"The Fenwick Arms is open. The pub was sold in 2009 and has changed hands twice since.  Brian and Elaine are now at The Ship Inn in Aldborough.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-4-episode-2-fenwick-arms.html"
+  },
+  {
+     "name":"Rococo/Maggies",
+     "status":"closed",
+     "description":"Rococo/Maggies is closed. They closed in September 2007 and they filed for bankruptcy.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-4-episode-3-rococo-maggies.html"
+  },
+  {
+     "name":"Morgans",
+     "status":"closed",
+     "description":"Morgans is closed. They closed as the business was sold in November 2007. Sandy returned to her antiques shop, Laura was an actress with some bit parts and Phil was jailed for theft for stealing cheques.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-4-episode-3-morgans.html"
+  },
+  {
+     "name":"La Lanterna",
+     "status":"closed",
+     "description":"La Lanterna is closed. Despite an increase in business, they closed in 2006 and the building was put up for sale.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-2-episode-1-la-lanterna.html"
+  },
+  {
+     "name":"D-Place",
+     "status":"closed",
+     "description":"D-Place is closed. They closed weeks after filming in 2004. It went into receivership and the lease was put up for sale before Gordon was able to revisit.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-2-episode-2-d-place.html"
+  },
+  {
+     "name":"Momma Cherri's",
+     "status":"closed",
+     "description":"Momma Cherri's is closed. Shortly after filming they moved into a much larger restaurant called Momma Cherri's Big House restaurant. They closed in 2009 due to large debts.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-2-episode-3-momma-cherris.html"
+  },
+  {
+     "name":"La Riviera",
+     "status":"open",
+     "description":"La Riviera is open. The restaurant was renamed to Contrast and has positive reviews. Loic returned to France and opened L'atelier du peintre, which gained a Michelin star in 2011.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-2-episode-4-la-riviera.html"
+  },
+  {
+     "name":"The Sandgate Hotel",
+     "status":"open",
+     "description":"The Sandgate Hotel is open. The business was sold by Lois and Peter in 2006 and has changed hands at least twice since.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-3-episode-2-sandgate-hotel.html"
+  },
+  {
+     "name":"Clubway 41/Jacksons",
+     "status":"closed",
+     "description":"Clubway 41/Jacksons featured in Ramsay's Kitchen Nightmares season 2 episode 7 and is closed. They closed in September 2006, shortly after Gordon revisited and they seemed to have given up.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-3-episode-3-clubway-41.html"
+  },
+  {
+     "name":"La Gondola",
+     "status":"closed",
+     "description":"La Gondola is closed. The restaurant closed in 2007 and the hotel remained open for a few more years. The abandoned building was targeted by squatters and vandals and Daniella sadly passed away in July 2019.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-3-episode-4-la-gondola.html"
+  },
+  {
+     "name":"Oscars",
+     "status":"closed",
+     "description":"Oscars is closed. They closed in October 2005 as Maura sold the restaurant and Lenin went into rehab.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-3-episode-1-oscars.html"
+  },
+  {
+     "name":"Bonapartes",
+     "status":"closed",
+     "description":"Bonapartes is closed. They closed in 2005 and was sold for £450,000. Sue was left homeless and in debt and both Sue and Tim were disqualified from driving for drink driving.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-1-episode-1-bonapartes.html"
+  },
+  {
+     "name":"The Glass House",
+     "status":"closed",
+     "description":"The Glass House is closed. They closed in March 2014 and reopened as The Fulling Mill. The restaurant is still owned by Neil Farrell.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-1-episode-2-glass-house.html"
+  },
+  {
+     "name":"The Walnut Tree Inn",
+     "status":"open",
+     "description":"The Walnut Tree Inn is open. They closed in February 2007 and reopened in December under a new owner. The restaurant was awarded a Michelin star in 2010 and every year since.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-1-episode-3-walnut-tree-inn.html"
+  },
+  {
+     "name":"Moore Place",
+     "status":"closed",
+     "description":"Moore Place is closed. They closed in 2006 when the owners sold the restaurant after starting to go back to their old ways.",
+     "link":"https://www.realitytvrevisited.com/2011/05/uk-season-1-episode-4-moore-place.html"
+  }
+]
