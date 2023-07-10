@@ -1,12 +1,13 @@
-# Getting Started with Create React App
+# KITCHEN NIGHTMARES - IS IT OPEN? 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## What is this?
 
-In the project directory, you can run:
+Ever watch kitchen nightmares and at the end of the episode you start wondering.. "I wonder if they're still open?" 
+Yep this is the app for that. I think this every single time and wanted a faster of getting the answer and thus here we are. 
 
-### `npm start`
+### how to run `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
